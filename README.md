@@ -1,4 +1,4 @@
-# react-native-rust-demo
+# react-native-rust-SSID
 A cross platform demonstration of the execution of Rust code in React Native.
 
 The application passes a string to the RN Native interface which then uses [ring](https://github.com/briansmith/ring) to create a sha256 hash of the input.
